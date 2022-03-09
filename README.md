@@ -1,0 +1,1 @@
+## MetaHawq Token ERC20 Standard
