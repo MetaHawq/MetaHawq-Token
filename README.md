@@ -15,3 +15,7 @@
 - Paste address you just copied to where it says "Search Name or Paste Address"
 
 - Trade!
+
+![Screenshot](Token_1.png)
+
+![Screenshot](Token_2.png)
